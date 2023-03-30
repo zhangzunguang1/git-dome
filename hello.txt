@@ -16,3 +16,7 @@ hello hello hello
 git! hello atguigu! hello 
 git! hello atguigu! hello  master text
 git! hello atguigu! hello  master text 
+git! hello atguigu! hello  hot-fix
+git! hello atguigu! hello  hot-fix
+git! hello atguigu! hello  hot-fix
+
